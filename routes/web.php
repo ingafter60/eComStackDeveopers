@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+// new routes
+Route::get('/admin', 'AdminController@login');
