@@ -75,3 +75,4 @@ https://www.youtube.com/watch?v=DpUf75HH-_o&list=PLLUtELdNs2ZZT3d9RQfgZLn6vbo5vb
 - #1. Download Free Matrix Admin Template: https://wrappixel.com/demos/free-admin-templates/matrix-admin-bt4/html/ltr/index.html
 - #2. Adding assets to the app for admin pannel
 - #3. Admin Login View: 1. Create AdminController; 2. Create Login Method; 3. Create Route; 4. Create views/admin/admin_login.blade.php; 5. Add Login template; 6. Add css, js, and image links.
+- #4. Adding Default Laravel Login process with Laravel Migration: 1. Create db; 2. Add db credential to .env file; 3. php artisan migrate; 4. php artisan make:auth; 5. register a new user; 6. play with login, logout and register.
