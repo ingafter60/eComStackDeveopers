@@ -73,3 +73,4 @@ https://www.youtube.com/watch?v=DpUf75HH-_o&list=PLLUtELdNs2ZZT3d9RQfgZLn6vbo5vb
 
 - Installing Laravel: composer create-project --prefer-dist laravel/laravel="5.6.*" eComStactDevelopers
 - #1. Download Free Matrix Admin Template: https://wrappixel.com/demos/free-admin-templates/matrix-admin-bt4/html/ltr/index.html
+- #2. Adding assets to the app for admin pannel
